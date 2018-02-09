@@ -1,14 +1,15 @@
 # Site settings
 title:       Duarte Bruno
 author:      Bruno Duarte
-description: "Meu site pessoal."
+description: "Desenvolvedor mobile e web morando em São Paulo, Brasil."
 baseurl:     ""
 url:         "https://duartebruno.netlify.com"
 
 # Social Links
-email:            brunopereiras@icloud.com
+email: brunopereiras@icloud.com
 twitter_username:
-github_username:  brunopereiras
+github_username: brunopereiras
+linkedin_username: brunopereiras
 
 # Build settings
 markdown: kramdown
